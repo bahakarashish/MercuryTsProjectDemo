@@ -8,14 +8,14 @@ public class Hooks
 @Before
 public void before()
 {
-System.out.println("before method under before Method under method");
+System.out.println("before method under before Method");
 		
 }
 	
 @After
 public void after()
 {
-System.out.println("after method under After under under method");
+System.out.println("after method under After method");
 }
 
 }
